@@ -1,7 +1,7 @@
 ![Profile views](https://gpvc.arturio.dev/naiiytom)  
 
 ### Hey 👋, I'm **Tom**
-#### *I am working as a Data Engineer*
+#### *I am working as a Data Engineer at a Consulting Company*
 
 Skills: Python | C/C++ | Golang | Typescript
 
