@@ -3,7 +3,7 @@
 ### Hey 👋, I'm **Tom**
 #### *I am working as a Data Engineer at a Consulting Company*
 
-Skills: Python | C/C++ | Golang | Typescript
+Skills: Python | Golang | Typescript | SQL
 
 - 🔭 I’m currently working on some side projects. 
 - 🌱 I’m currently learning building data pipelines. 
