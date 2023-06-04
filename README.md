@@ -1,13 +1,19 @@
-![Profile views](https://gpvc.arturio.dev/naiiytom)  
 
-### Hey 👋, I'm **Tom**
-#### *I am working as a Data Engineer at a Consulting Company*
+# Hey 👋
 
-Skills: Python | Golang | Typescript | SQL
+## I'm **Tom**
 
-- 🔭 I’m currently working on some side projects. 
-- 🌱 I’m currently learning building data pipelines. 
-- 😄 Pronouns: he/him 
+### *I am working as a Data Engineer at an Estate Company*
+
+Skills: Python | SQL | Azure/AWS
+
+- 🔭 I’m currently working on some side projects
+- 🌱 I’m currently learning building stuffs with Rust 🦀
+- 😄 Pronouns: he/him
+
+----------
+
+![Profile views](https://gpvc.arturio.dev/naiiytom)
 
 ----------
 
