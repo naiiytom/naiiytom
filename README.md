@@ -46,5 +46,9 @@
 ### 📈 GitHub Stats
 
 <div align="center">
+  <img src="https://img.shields.io/github/followers/naiiytom?style=social" alt="GitHub Followers" />
+  <br/>
+  <br/>
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/naiiytom?theme=dark" alt="GitHub User Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naiiytom&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
