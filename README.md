@@ -51,4 +51,8 @@
   <br/>
   <img src="https://awesome-github-stats.azurewebsites.net/user-stats/naiiytom?theme=dark" alt="GitHub User Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=naiiytom&theme=dracula&hide_border=true" alt="GitHub Streak" />
+  <br/>
+  <br/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naiiytom&theme=dark&utcOffset=7" alt="Productive Time" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=naiiytom&theme=dark" alt="GitHub Profile Stats" />
 </div>
